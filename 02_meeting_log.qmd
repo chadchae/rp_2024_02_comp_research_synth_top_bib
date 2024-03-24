@@ -1,0 +1,4 @@
+# Meeting Log {.unnumbered}
+
+## 2024-03-24
+- [x] 10:00-10:30: Kick-off meeting
