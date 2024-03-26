@@ -1,0 +1,14 @@
+# Meeting Log {.unnumbered}
+
+## 2024-03-26
+- [x] 20:00 - 22:50 
+  - Reading and discussion of Garavan's 2023 editorial.
+  - Basic division of labor
+  - update research home
+  - assign tasks
+    - Chad
+      - proposal
+    - Alen
+      - searching and collecting articles in HRD journals about research synthesis and literature review method(how to write)
+    - Owen
+      - searching and collecting articles in HRD journals that used bibliometrics, topic modeling, text mining

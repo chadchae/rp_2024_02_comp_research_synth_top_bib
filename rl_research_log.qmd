@@ -1,0 +1,7 @@
+# Research Log {.unnumbered}
+
+## 2024-03-26
+- read thomas garavan's 2023 editorial for direction of HRDR
+- conceptualize idea
+  - providing a methodological frameworks for computational added or enhanced research synthesis for HRD practitioner and scholar (bibliometrics, topicmodeling, literature based knowledge discovery)
+- Start to organizing articles and review them

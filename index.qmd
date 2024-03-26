@@ -1,21 +1,128 @@
 # Project Details {.unnumbered}
+- Formulating Computational Aided Research Synthesis for HRD: Suggesting Methodological Framework in combination of cliometrics, topic modeling and literature based knowledge Discovery
 
 ## Abstract
-> This is a project home for
 
-## Status
-- Status
+> tba
 
-- Progress
+## Planning
+- Complete rough draft by June 4
+- Revising and improving during summer
+- Summitting to AHRD conference (early September / Oct)
+- Final validation and touch and summitting HRDQ / HRDR first 
 
-## Schedule
-- tba
+### Schedule
+- TBA
 
-## Contribution
-- tba
+### Progress
+- Collecting literature and Analyzing
 
-## Authorship
-- Chungil Chae @chadchae
+## Authorship and Authors
+
+### Author Contribution
+
+- Supervision: Chungil (Chad) Chae 
+- Project administration:
+  - Chungil (Chad) Chae
+- Conceptualization:
+  - Chungil (Chad) Chae
+-  Data accusation:
+  - Xuanlun Dai (Alen)
+  - Jiawei Gu (Owen)
+-  Data curation:
+  - Jiawei Gu (Owen)
+  - Xuanlun Dai (Alen)
+-  Formal analysis:
+  - Chungil (Chad) Chae
+- Methodology:
+  - Chungil (Chad) Chae
+- Resources:
+- Validation:
+  - Chungil (Chad) Chae
+  - Jiawei Gu (Owen)
+  - Xuanlun Dai (Alen)
+- Visualization:
+  - Chungil (Chad) Chae
+  - Xuanlun Dai (Alen)
+- Writing – original draft:
+  - Chungil (Chad) Chae
+  - Jiawei Gu (Owen)
+  - Xuanlun Dai (Alen)
+- Writing – review & editing:
+  - Chungil (Chad) Chae
+
+
+
+### Authors
+
+#### Chungil Chae, Ph.D., M.S.
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- chadchae\@gmail.com
+- orcid: [000-0002-7364-1525](https://orcid.org/0000-0002-7364-1525)
+- [Google Scholar](https://scholar.google.com/citations?user=c4lRBrkAAAAJ&hl=en)
+- @chadchae
+
+:::
+
+::: {.column width="30%"}
+![](img/chadchae.png)
+:::
+
+
+::::
+
+> Chungil Chae @chadchae is an assistant professor in the field of business analytics, with a distinguished track record in organizational behavior, human resource development (HRD), learning, and development. With a prolific publication record that spans various dimensions of HRD and organizational studies, Dr. Chae has made significant contributions to understanding the dynamics of organizational support on knowledge sharing, virtual team leadership, and the structural determinants of HRD research collaboration networks. And his work embodies a deep commitment to enhancing understanding and practices in organizational behavior, HRD, learning, and development. His interdisciplinary research not only contributes to academic discourse but also offers tangible strategies for organizational improvement and individual development.
+
+#### Xuanlun Dai (Alen) 
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- xuanlunallen@gmail.com
+
+:::
+
+::: {.column width="30%"}
+![](img/allen.png)
+:::
+
+::::
+
+> Majoring in Management-Business Analytics, Allen is the current manager of WKU Business Analytics Lab. He is the TA of MGS 3101- Foundation of Business Analytics in the 2023 Fall semester with the OBs of the lab. Now, his team is currently working as the TAs for the 2024 Spring semester MGS 3001-Python Programming for Business and MGS 3701-Data Mining in Business. To assist students in this programming-based course, all TAs are all equipped with knowledge and experience in R, Python, Automated Machine Learning, and an infernal statistic toolkit. As an active research team member, his research interest covers Portfolio Management, Green Economy, Green Management, and Knowledge Sharing. Correspondingly, he has several field experiences to provide him with different perspectives for the projects. In order to diversify his view on business problems, he focused on different related fields, including an internship in the Middle East as a salesperson and the Operation Analyst in the Bankruptcy Department at a law firm. His research and internship interest is based on applying analytics in practical situations. Thus, his internship interest includes Strategic Consulting, Management Consulting, Brokerage Research, and Internet BA. His personal volunteering and coordinating experience at major events like WYSS- World Young Scientist Summit and Wenzhou Bankruptcy Representatives Association have provided communication skills and working procedures for TA tasks and managing the lab activities.
+
+#### Jiawei Gu (Owen)
+
+:::: {.columns}
+
+::: {.column width="70%"}
+- owen.gujiawei@gmail.com
+
+:::
+
+::: {.column width="30%"}
+![](img/owen.png)
+:::
+
+::::
+
+> Jiawei Gu is a sophomore at Wenzhou-Kean University, majoring in Management Science. As a member in BA lab, he actively contributes to the BA lab and holds leadership roles as the head of the Academic Department of the Science and Technology Research Association and the vice president of the Student Union. His research interests are in "Work-life balance" and "Human Resource Management and Development," areas where he has already made significant strides. Collaborating with Dr. Chad, Jiawei has co-authored a paper accepted for presentation at the AIB conference and is involved in two ongoing research projects. These initiatives reflect his commitment to exploring innovative solutions for enhancing employee well-being and organizational effectiveness. Through his academic and extracurricular activities, Jiawei demonstrates a strong dedication to his field, aiming to contribute valuable insights and foster sustainable workplace practices.
+
+
+
 
 ### Acknowledgement
-- tba
+
+- Business analytics lab students at Wenzhou-Kean: 
+
+## Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+### IRB
+
+### Funding
+
+### AI
+
