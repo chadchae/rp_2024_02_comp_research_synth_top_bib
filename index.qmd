@@ -1,6 +1,9 @@
 # Project Details {.unnumbered}
 - Formulating Computational Aided Research Synthesis for HRD: Suggesting Methodological Framework in combination of cliometrics, topic modeling and literature based knowledge Discovery
 
+## Citation
+- Chae C, 2024
+
 ## Abstract
 
 > tba
